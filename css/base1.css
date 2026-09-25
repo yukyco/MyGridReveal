@@ -145,11 +145,11 @@ a:focus {
 	text-transform: capitalize;
 	position: fixed;
 	z-index: 1000;
-	margin-top: -500px;
 	height: 100px;
     margin-left: 100px;
     margin-right: 0px;
 }
+
 
 .frame__title {
 	font-size: 3rem;
